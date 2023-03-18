@@ -19,4 +19,5 @@ The unique features and pages added
 -  History page - See past BMI results (firebase intergration)
 -  notification page - health tips from you BMI results (looking to add this feature)
 -  Hoping to include an AI health chat bot 
+-  And Interact with other health Apps on the Mobile
 
