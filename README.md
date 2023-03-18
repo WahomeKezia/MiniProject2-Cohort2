@@ -11,5 +11,11 @@
 # MiniProject2-_-Cohort2
 In class project , I improve a simple BMI calculator application by implementing the following concepts
 
-- Authentification 
+- Authentification pages 
 - Data Persistance - The user can view their past BMI data 
+
+The unique features and pages added  
+
+-  History page - See past BMI results (firebase intergration)
+-  notification page - health tips from you BMI results (looking to add this feature)
+
