@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440509417063",
+    "project_id": "keziaflutter",
+    "storage_bucket": "keziaflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440509417063:android:518b18e6b74f12eb93f6c2",
+        "android_client_info": {
+          "package_name": "com.kezia.bmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440509417063-7cmdfuc633mpk36kkjs9s0dn9nu79ifu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GqV6ymd8v_O7b9piT2au-NvwiImcFiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440509417063-7cmdfuc633mpk36kkjs9s0dn9nu79ifu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
