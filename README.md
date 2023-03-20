@@ -21,3 +21,7 @@ The unique features and pages added
 -  Hoping to include an AI health chat bot 
 -  And Interact with other health Apps on the Mobile
 
+Resources :
+Firebase Authentitication Tutorial : https://www.youtube.com/watch?v=GvIoBgmNgQw&list=TLPQMTgwMzIwMjPqWygN-MIebQ&index=49&ab_channel=HarsivoEdu 
+
+
