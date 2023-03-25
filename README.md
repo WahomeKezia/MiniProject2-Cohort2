@@ -12,6 +12,7 @@
 In this formative project , I improve a simple BMI calculator application by implementing the following concepts
 
 - Authentification 
+-Shared Preferences 
 - Data Persistance - The user can view their past BMI data 
 
 The unique features and pages added  
